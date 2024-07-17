@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vasil Panchev
+- 👀 I’m interested in IT Management and Governance, Information Security Management, Project Management
+- 🌱 I’m currently learning COBIT
+- 💞️ I’m looking to collaborate on IT Management and Governance, Information Security Management, Project Management
+- 📫 You can reach me at vasil@panchev.net
